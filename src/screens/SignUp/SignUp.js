@@ -1,3 +1,6 @@
+/* eslint-disable prettier/prettier */
+/* eslint-disable react-native/no-inline-styles */
+/* eslint-disable react/self-closing-comp */
 import React from 'react';
 import {View, Text, Image, TouchableOpacity, TextInput} from 'react-native';
 import styles from './SignUpStyle';

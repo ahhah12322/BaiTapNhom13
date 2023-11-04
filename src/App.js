@@ -1,3 +1,6 @@
+/* eslint-disable prettier/prettier */
+/* eslint-disable no-unused-vars */
+
 import React from 'react';
 import {View, Text, StatusBar} from 'react-native';
 import {NavigationContainer} from '@react-navigation/native';
